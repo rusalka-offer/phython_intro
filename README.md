@@ -1,6 +1,6 @@
-Lies mich !
-# Introduction to Phyton, pandas and json parsing and other things
+ReadMe File 
+# Introduction to Phyton, pandas and json parsing and other things 15.16.05.2019
  
 Anwendungsbeispiele
-##RO
+Autor:
 Rusalka Offer
